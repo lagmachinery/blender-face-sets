@@ -10,4 +10,4 @@ When a mesh is selected and in edit mode, in the mesh data panel there will be a
 
 ### Attribution
 
-This addon is based on [Face-Maps-Legacy](Face-Maps-Legacy) by TYO79
+This addon is based on [Face-Maps-Legacy](https://github.com/TYO79/Face-Maps-Legacy) by TYO79
